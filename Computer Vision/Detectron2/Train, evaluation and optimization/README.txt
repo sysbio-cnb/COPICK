@@ -3,7 +3,7 @@
 # Workflow using the Colony Picking dataset (COPICK) in Detectron2 for training, evaluation and optimization tasks.
 
 
-Training, Evaluation and Panoptic Predictions 
+TRAINING, EVALUATION AND PANOPTIC PREDICTIONS 
 
 	-"detectron2_train_eval.py": it is used for Detectron2 Config setup to perform model training and evaluation.
 
@@ -11,9 +11,9 @@ Training, Evaluation and Panoptic Predictions
 
 	-"display_colonies_overlay.py": it is used to visualize the predicted colonies overlayed on top of the original image.
 
-Hyperparameters optimization
 
-	-"detectron2_optimization.py": it is used to perform model hyperparameters optimization in order to choose the best posible values to train and improve the Colony Picking panoptic model in Detectron2. 
-			               Optimization is done using the library "Optuna" (https://optuna.org/).
+HYPERPARAMETERS OPTIMIZATION
+
+	-"detectron2_optimization.py": it is used to perform model hyperparameters optimization in order to choose the best posible values to train and improve the Colony Picking panoptic model in Detectron2. Optimization is done using the library "Optuna" (https://optuna.org/).
 
 
