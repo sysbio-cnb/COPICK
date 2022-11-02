@@ -1,3 +1,3 @@
 Technical validation in progress.
 
-Expected to upload results by the end of October 2022
+Expected to upload complete results by the end of December 2022
