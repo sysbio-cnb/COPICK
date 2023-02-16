@@ -21,7 +21,7 @@ xxxx
 
 # Contact
 
-Questions and suggestions are welcome. Feel free to contact us on david.rodriguez@cnb.csic.es
+Questions and suggestions are kindly welcome. Feel free to contact us on david.rodriguez@cnb.csic.es
 
 
 
