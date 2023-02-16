@@ -1,4 +1,4 @@
-# COPICK
+# COPICK: An open-source technical solution for Opentrons OT-2 robot to support colony picking  
 Framework designed to adapt Opentrons 2 robot for colony picking protocols.
 
 Colony picking is a labware based protocol involving the operation of several pieces of hardware in a unique sequence of tasks. The core of such workflow is the visual identification of colonies on the surface of agar plates. Although OT-2 is an open source platform exhibiting great operational capabilities, it lacks of any kind of computer vision recognition system. As a consequence, OT-2 cannot support colony picking.
