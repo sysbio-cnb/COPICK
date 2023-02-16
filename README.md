@@ -10,7 +10,7 @@ COPICK package offers a technical solution to enable OT-2 as a colony picking pl
 
 Information about both implementations can be found inside each respective folder.
 
-# Reference manuscript
+# Citation
 
 This project is also presented and explained in a formal published manuscript in BioArxiv: XXXXX
 
