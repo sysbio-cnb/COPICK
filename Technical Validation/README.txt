@@ -1,3 +1,6 @@
-Technical validation in progress.
+Technical validation
+-------------------
 
-Expected to upload results by the end of October 2022
+In order to validate the platform, we performed three validation different tests (raw picking test, color-based screening and fluorescence based screening). Results of these experiments are included in the subfolders and detailed in the main manuscript of the implementation. 
+
+
