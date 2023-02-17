@@ -1,0 +1,62 @@
+{
+    "ordering": [
+        [
+            "A1"
+        ]
+    ],
+    "brand": {
+        "brand": "transillum_omnitray_v3",
+        "brandId": []
+    },
+    "metadata": {
+        "displayName": "transillum_omnitray_v3",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.5,
+        "yDimension": 85.3,
+        "zDimension": 127
+    },
+    "wells": {
+        "A1": {
+            "depth": 15,
+            "totalLiquidVolume": 85000,
+            "shape": "rectangular",
+            "xDimension": 100,
+            "yDimension": 122,
+            "x": 63.75,
+            "y": -3.2,
+            "z": 112
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [
+            "centerMultichannelOnWells",
+            "touchTipDisabled"
+        ],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "transillum_omnitray_v3"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
