@@ -1,6 +1,10 @@
 Manufacture settings
 -----------------
 
+Assembly was manufactured using a Ultimaker 3 3D-printer using standard material settings. 
+
 Print the CAD models using any material of your choice. 
 
-Hard materials such as ABS are recommended for printing the camera holder. Black material is recommended for Petri Dish holder (to enhance contrast during imaging)
+Hard materials such as ABS are recommended for printing the camera holder. We recommend using a 100% infill to provide stronger consistence to this part (it will hold the camera for long periods of time).
+
+Black material is recommended for Petri Dish holder (to enhance contrast during imaging)
