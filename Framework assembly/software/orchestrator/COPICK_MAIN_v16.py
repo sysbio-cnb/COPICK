@@ -91,7 +91,7 @@ camera_settings['FORMAT']='.JPG'
 camera_settings['WIDTH_IMG']=2592
 camera_settings['HEIGHT_IMG']=1944
 camera_settings['GAIN_GFP']=1800000 #
-camera_settings['GAIN_WHITE']= 300000 #(with filter) #(13572.99 without filter)
+camera_settings['GAIN_WHITE']= 300000 #(with filter) #(13572.99 without camera longpass filter)
 
 # DETECTRON WEIGHT PATHS
 # Chose and load weights from folder
