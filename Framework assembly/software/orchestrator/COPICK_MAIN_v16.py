@@ -566,10 +566,10 @@ def create_csv(info_objects_sel,score_list_sorted, center_plate_labware,center_p
     for i in range(0, len(centroids)):
         
         # Get get incremental offset vector (in pixels) from detected colonies to detected center in crop image. As crop size is a subset of pixels of global image, pixel lengths match in both images (crop and original)
-        offset_colony_to_center_crop_x=(centroids[i][0]-center_plate_crop[0])*0.05111254-0.45055484 # Incremental shift between colony position and plate center 
-        offset_colony_to_center_crop_y=(centroids[i][1]-center_plate_crop[1])*0.05249069+0.125688
+        offset_colony_to_center_crop_x=(centroids[i][0]-center_plate_crop[0])*mx_fit_px_to_mm+bx_fit_px_to_mm # Incremental shift between colony position and plate center 
+        offset_colony_to_center_crop_y=(centroids[i][1]-center_plate_crop[1])*my_fit_px_to_mm+by_fit_px_to_mm # Incremental shift between colony position and plate center
         
-        # Get incremental offset pointing to each colony from labware center (in pixels)
+        # Get incremental offset pointing to each colony from labware center
         colony_robot_shift_x = offset_labware_to_plate_x + offset_colony_to_center_crop_x
         colony_robot_shift_y = offset_labware_to_plate_y + offset_colony_to_center_crop_y
         
