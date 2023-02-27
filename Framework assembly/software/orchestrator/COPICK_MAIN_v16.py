@@ -95,7 +95,7 @@ camera_settings['GAIN_WHITE']= 300000 #(with filter) #(13572.99 without filter)
 
 # DETECTRON WEIGHT PATHS
 # Chose and load weights from folder
-weights_paths=["X:/XXX/XXX/model_weights/optuna_study2_37/model_final.pth","X:/XXX/XXX/model_weights/optuna_study2_30/model_final.pth"]
+weights_paths=["X:/XXX/XXX/model_weights/SQ_30/model_final.pth","X:/XXX/XXX/model_weights/SQ_38/model_final.pth"]
 
 # TRANSILLUMINATOR SETTINGS
 transillum_settings=dict()
