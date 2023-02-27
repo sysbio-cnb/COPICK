@@ -147,7 +147,7 @@ ot2_csv_path='/var/lib/jupyter/notebooks' # Access path to -colony_list_plate_0.
 # COLONY SELECTION SETTINGS
 only_counting=False # Set to True if only a counting of colonies is required
 filter_criterium=['size'] # ['size', 'color','counting','gfp'] # Set the criterium/s to be used in the colony selection
-target_reference_color_RGB=[56.0,87.0,108.0] # Introduce values in B,G,R order
+target_reference_color_RGB=[56.0,87.0,108.0] # Introduce values in R,G,B order
 
 n_colonies_to_pick=700 # Set maximum number of colonies to pick
 
