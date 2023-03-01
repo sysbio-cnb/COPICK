@@ -12,7 +12,7 @@ Information about both implementations can be found inside each respective folde
 
 # Citation
 
-This project is also presented and explained in a formal published manuscript in BioArxiv: https://www.biorxiv.org/content/10.1101/2023.02.28.530165v1
+This project is also presented and explained in a formal published manuscript in BioRXiv: https://www.biorxiv.org/content/10.1101/2023.02.28.530165v1
 
 
 # Contact
