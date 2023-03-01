@@ -12,12 +12,8 @@ Information about both implementations can be found inside each respective folde
 
 # Citation
 
-This project is also presented and explained in a formal published manuscript in BioArxiv: XXXXX
+This project is also presented and explained in a formal published manuscript in BioArxiv: https://www.biorxiv.org/content/10.1101/2023.02.28.530165v1
 
-If you want to cite this work, use the following reference:
-xxxx
-xxxx
-xxxx
 
 # Contact
 
